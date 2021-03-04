@@ -98,7 +98,7 @@ $(window).load(function(){
 
  // Count down setup
 
- $('.countdown').countdown('2019/8/3', function(event) {
+ $('.countdown').countdown('2021/3/17', function(event) {
     $(this).html(event.strftime('%D days %H:%M:%S'));
 });
 
